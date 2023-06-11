@@ -1,2 +1,2 @@
 # SocialNetworkProject
-*Estrarre l'archivio payment
+*Estrarre l'archivio payment.zip
